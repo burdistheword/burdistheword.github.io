@@ -1,3 +1,3 @@
 function revealMessage() {
-    document.getElementByID("hiddenMessage").style.display;
+    document.getElementByID("hiddenMessage").style.display = flex;
 }
